@@ -7,12 +7,12 @@ import os
 import json
 
 # CONFIGURATION
-FINNHUB_API_KEY = 'd0obvjpr01qsib2bmb70d0obvjpr01qsib2bmb7g'  # Replace with your real key
+FINNHUB_API_KEY = ''  # Replace with your real key
 STOCK_SYMBOL = 'RIVN'
 
 EMAIL_FROM = 'micdiw@yahoo.com'
 EMAIL_TO = 'michel.diwan@gmail.com'
-EMAIL_PASSWORD = 'umslgdixngqoqcfd'  # Use an app password if using Gmail
+EMAIL_PASSWORD = ''  # Use an app password if using Gmail
 SMTP_SERVER = 'smtp.mail.yahoo.com'
 SMTP_PORT = 587
 
